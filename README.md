@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontendmentor](https://www.frontendmentor.io/solutions/Social-proof-section-EBQqVQwlyW)
+- Solution URL: [Frontendmentor](https://www.frontendmentor.io/solutions/social-proof-section-PRt_eCy0OZ)
 - Live Site URL: [GitHub Pages Live URL](https://justcallmezino.github.io/Social-proof-section/)
 
 ## My process
